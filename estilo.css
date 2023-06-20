@@ -443,7 +443,7 @@
             padding: 10px;
             opacity: 0;
             bottom: -40px;
-            transition: .5s;
+            transition: .3s;
         }
         
         #portfolio .fila .proyecto:hover .info {
